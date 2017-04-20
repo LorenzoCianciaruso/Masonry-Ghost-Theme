@@ -11,7 +11,7 @@ I use this theme for my blog, which can be viewed [here](http://ec2-52-56-89-226
 ## Setup
 
 1\. Clone Repository to themes folder ``` /content/themes/ ```
-``` git clone https://github.com/chris-brown/Masonry-Ghost-Theme.git ```
+``` git clone https://github.com/LorenzoCianciaruso/Masonry-Ghost-Theme.git ```
 
 2\. Install dev dependencies
 ```javascript
