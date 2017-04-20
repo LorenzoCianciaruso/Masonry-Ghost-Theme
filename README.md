@@ -1,12 +1,12 @@
 # Masonry Theme
 
-A basic masonry theme for [Ghost](https://ghost.org) by [Chris Brown](https://github.com/chris-brown)
+A basic masonry theme for [Ghost](https://ghost.org) forked from [Chris Brown](https://github.com/chris-brown)
 
 ---
 
 ## Example
 
-I use this theme for my blog, which can be viewed [here](http://blog.zirafon.org)
+I use this theme for my blog, which can be viewed [here](http://ec2-52-56-89-226.eu-west-2.compute.amazonaws.com/)
 
 ## Setup
 
